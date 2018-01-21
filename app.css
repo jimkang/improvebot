@@ -8,7 +8,7 @@ body {
   font-family: Roboto, sans-serif;
   font-size: 40px;
   font-weight: 200;
-  color: #252528;
+  color: #444;
   background-color: #eee;
   margin: 0;
   height: 100%;
@@ -37,7 +37,7 @@ li {
 }
 
 a:link {
-  color: black;
+  color: #aaa;
   text-decoration: none;
 }
 
@@ -61,8 +61,7 @@ li.pane {
   padding-bottom: 1.2em;
   margin-bottom: 2em;
   text-align: center;
-  border: 1px solid #ddd;
-  box-shadow: 2px 2px #e8e8e8;  
+  border: 1px solid #222;
 }
 
 .entry-meta {
