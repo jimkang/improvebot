@@ -5,8 +5,9 @@ html {
 }
 
 body {
-  font-family: Monserrat, sans-serif;
-  font-size: 36px;
+  font-family: Montserrat, sans-serif;
+  font-size: 40px;
+  font-weight: 200;
   color: #252528;
   background-color: #eee;
   margin: 0;
